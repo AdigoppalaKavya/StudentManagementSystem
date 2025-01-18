@@ -2,7 +2,7 @@ package student_management_system;
 
 public class StudentManagementSystem 
 {
-//Main Class
+//Main Class for StudentManagementSystem
 	public static void main(String[] args) throws InterruptedException 
 	{
 		Management management=new Management();
